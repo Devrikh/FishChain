@@ -4,6 +4,8 @@
 
 This decentralized blockchain application provides a comprehensive solution for managing fisheries, fish trading, and sustainability tracking. The system leverages smart contracts to ensure transparency, traceability, and efficient market operations in the fishing industry.
 
+Demo: [Click me :)](https://drive.google.com/file/d/1Sj9gWQg9kjoHK5OO9zUMm3JqiW9TBrOF/view?usp=sharing)
+
 ## Key Contracts
 
 ### 1. FisheriesManagement.sol
